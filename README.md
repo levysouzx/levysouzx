@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Desenvolvedor Júnior, me especializado em React, TypeScript, JavaScript e Node.js, focado em inovar e crescer continuamente no mundo da programação</h4>
+<h4 align="left">Desenvolvedor Júnior, especializado em React, TypeScript, JavaScript e Node.js, focado em inovar e crescer continuamente no mundo da programação</h4>
 
 ###
 
